@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YamesYamerson
-- 👀 I’m interested in Software Development, Machine Learning, Natural Languag Processing, Front-End Design
+- 👀 I’m interested in Software Development, Machine Learning, Natural Language Processing, Front-End Design - Nature, Gardening, Cycling, Music, Video Games, Cooking
 - 🌱 I’m currently learning SQL, PHP, JS, NodeJS, React
 - 💞️ I’m looking to collaborate on pretty much anything new and exciting.
 - 📫 How to reach me: jamesrmclean88@gmail.com
